@@ -2,5 +2,6 @@
 - Twenty-Five Years of Computer Knowledge, now combined with academia
 - Software Development, Machine Learning, Web Development, Entrepreneurship, and many, many other hats.
 - I’m currently learning JAVA while expanding on Python, C#, HTML, CSS, SQL, and others.
-- I’m looking to collaborate on as many projects as I can make time for!
+- I am getting a late start on my Github but I document all of my code outside of Github.
+- Still working on uploading my projects as time allows.
 - Reach me at Robert@brainwavepro.ai
