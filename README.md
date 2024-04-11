@@ -1,5 +1,5 @@
 - Hi, I’m @BrainwavePro
-- Twenty-Five Years of Computer Knowledge, now combined with academia
+- A Polymath with over Twenty-Five Years of Computer Knowledge, now combined with academia
 - Software Development, Machine Learning, Web Development, Entrepreneurship, and many, many other hats.
 - I’m currently learning JAVA while expanding on Python, C#, HTML, CSS, SQL, and others.
 - I am getting a late start on my Github but I document all of my code outside of Github.
