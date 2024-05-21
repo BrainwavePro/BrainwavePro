@@ -4,4 +4,3 @@
 - I’m currently expanding my knowledge of Python, C#, Java, HTML, CSS, SQL, and others.
 - I am getting a late start on my Github but I document all of my code outside of Github.
 - Still working on uploading my projects as time allows.
-- Reach me at Robert@brainwavepro.ai
