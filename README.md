@@ -1,6 +1,6 @@
-- Hi, I’m @BrainwavePro
-- A Polymath with over Twenty-Five Years of Computer Knowledge, now combined with academia
-- I am currently a Software Engineer primarily focus in on .NET frameworks.
+- Hi, I’m @BrainwavePro!
+- A Polymath with over Twenty-Five Years of Computer Knowledge, now combined with academia.
+- I am currently a Software Engineer primarily focused on .NET frameworks.
 - Coding skills include but not limited to Python, C#, Java, HTML, CSS, SQL, MSQLServer, Oracle, VB and others.
 - I’m a lifelong continuous learner, avid problem solver, and innovator.
 - I am getting a late start on my Github but I document all of my code outside of Github.
